@@ -1,7 +1,7 @@
 eCommerce-gateway-payment-ecompras-opencart
 ===========================================
 
-Para descargar el sistema ecommerce OpenCarte, clic en -> http://www.opencart.com/index.php?route=download/download 
+Para descargar el sistema ecommerce OpenCart, clic en -> http://www.opencart.com/index.php?route=download/download 
 
 Plugins de Pago en Línea para eCompras OpenCart | www.ecompras.com.bo
 
